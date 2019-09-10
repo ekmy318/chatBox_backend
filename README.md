@@ -1,9 +1,11 @@
 # ChatBox
 ChatBox is a Single Page Application for real-time, bidirectional online messaging using Socket.io. Authenticated users are able to chat with other users while authorized users are able to update or delete owned messages.
 
-[Frontend repo](https://github.com/infinitefourloop/ChatBox) :speech_balloon: [Backend repo](https://github.com/infinitefourloop/ChatBox-backend)
+[Frontend repo](https://github.com/ekmy318/Chatbox) :speech_balloon:
+[Backend repo](https://github.com/ekmy318/chatBox_backend)
 
-[Client deploy](https://infinitefourloop.github.io/ChatBox/) :speech_balloon: [Heroku deploy](https://young-springs-61213.herokuapp.com/)
+[Client deploy](https://ekmy318.github.io/Chatbox/) :speech_balloon:
+[Heroku deploy](https://shrouded-shelf-97885.herokuapp.com/)
 
 ## Technologies Used
 
